@@ -1,0 +1,50 @@
+
+  
+   
+      #teste
+      {
+        width: 220px;
+        height: 563px;
+        float: left;
+       
+      }
+  
+      .footer {
+          position: absolute;
+          bottom: 0;
+          width: 100%;
+          /*Tamanho do rodapé */
+          height: 60px;
+          background-color: #343a40;
+          padding-top: 20px;
+      } 
+  
+          .container {
+            padding-right: 15px;
+            padding-left: 15px;
+          }
+      
+  
+      .container .text-muted {
+        margin: 20px 0;
+      }
+
+          
+
+          .nav-link:hover{
+          
+            font-size: 200%;
+          	}
+
+             
+            
+        .linha
+        {
+          color: grey;
+          width: 200px;
+          height: 1px;
+        }    
+         
+  
+   
+  
